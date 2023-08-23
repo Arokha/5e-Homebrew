@@ -1,0 +1,285 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DaryaToD",
+				"abbreviation": "DToD",
+				"full": "Darya's Tome of Devouring",
+				"authors": [
+					"VoraciousTriton",
+					"SouthernDruid",
+					"VeryBatty"
+				],
+				"convertedBy": [
+					"Aronai"
+				],
+				"version": "",
+				"color": "35683C",
+				"url": "https://homebrewery.naturalcrit.com/share/eA8F6jsMvnLk"
+			}
+		],
+		"status": "ready",
+		"dateAdded": 0,
+		"dateLastModified": 0,
+		"_dateLastModifiedHash": ""
+	},
+	"subclass": [
+		{
+			"name": "",
+			"source": "DaryaToD",
+			"className": "",
+			"shortName": "",
+			"subclassFeatures":[
+				"Feature Name|ClassName||SubName|DaryaToD|lv"
+			]
+		},
+		{
+			"name": "Path of Totem Warrior",
+			"source": "DaryaToD",
+			"className": "Barbarian",
+			"shortName": "Totem",
+			"subclassFeatures":[
+				"Totem Spirit|Barbarian||Totem|DaryaToD|3",
+				"Aspect of the Beast|Barbarian||Totem|DaryaToD|6",
+				"Totemic Attunement|Barbarian||Totem|DaryaToD|14"
+			]
+		},
+		{
+			"name": "Path of the World-Eater",
+			"source": "DaryaToD",
+			"className": "Barbarian",
+			"shortName": "World-Eater",
+			"subclassFeatures":[
+				"Boiling Rage|Barbarian||World-Eater|DaryaToD|3",
+				"Immense Appetite|Barbarian||World-Eater|DaryaToD|6",
+				"Essence Eater|Barbarian||World-Eater|DaryaToD|10",
+				"Unstoppable Hunger|Barbarian||World-Eater|DaryaToD|14"
+			]
+		},
+		{
+			"name": "College of the Madrigal Dinner",
+			"source": "DaryaToD",
+			"className": "Bard",
+			"shortName": "Madrigal",
+			"subclassFeatures":[
+				"Stomach Soothing Song|Bard||Madrigal|DaryaToD|3",
+				"Voracious Inspiration|Bard||Madrigal|DaryaToD|3",
+				"Show for the Hungry|Bard||Madrigal|DaryaToD|6",
+				"Encore Performance|Bard||Madrigal|DaryaToD|14"
+			]
+		},
+		{
+			"name": "College of the Dinner Bell",
+			"source": "DaryaToD",
+			"className": "Bard",
+			"shortName": "Dinner Bell",
+			"subclassFeatures":[
+				"Bonus Proficiencies|Bard||Dinner Bell|DaryaToD|3",
+				"Ring of the Dinner Bell|Bard||Dinner Bell|DaryaToD|3",
+				"Extra Attack|Bard||Dinner Bell|DaryaToD|6",
+				"Devouring Spell|Bard||Dinner Bell|DaryaToD|14"
+			]
+		},
+		{
+			"name": "Gluttony Domain",
+			"source": "DaryaToD",
+			"className": "Cleric",
+			"shortName": "Gluttony",
+			"subclassFeatures":[
+				"Domain Spells|Cleric||Gluttony|DaryaToD|1",
+				"Bonus Proficiencies|Cleric||Gluttony|DaryaToD|1",
+				"Ravenous Blessing|Cleric||Gluttony|DaryaToD|1",
+				"Channel Divinity: Divine Feast|Cleric||Gluttony|DaryaToD|2",
+				"Glutton's Reward|Cleric||Gluttony|DaryaToD|6",
+				"Divine Strike|Cleric||Gluttony|DaryaToD|8",
+				"Aura of Excess|Cleric||Gluttony|DaryaToD|17"
+			]
+		},
+		{
+			"name": "Feast-Aid",
+			"source": "DaryaToD",
+			"className": "Cleric",
+			"shortName": "Feast-Aid",
+			"subclassFeatures":[
+				"Domain Spells|Cleric||Feast-Aid|DaryaToD|1",
+				"Digestive Restoration|Cleric||Feast-Aid|DaryaToD|1",
+				"Channel Divinity: Gastro-Nambulist|Cleric||Feast-Aid|DaryaToD|2",
+				"Cushioning Gurgles|Cleric||Feast-Aid|DaryaToD|6",
+				"Potent Spellcasting|Cleric||Feast-Aid|DaryaToD|8",
+				"Belly of Sacred Steel|Cleric||Feast-Aid|DaryaToD|18"
+			]
+		},
+		{
+			"name": "Circle of the Chimera",
+			"source": "DaryaToD",
+			"className": "Druid",
+			"shortName": "Chimera",
+			"subclassFeatures":[
+				"Chimera Forms|Druid||Chimera|DaryaToD|2",
+				"Extra Attack|Druid||Chimera|DaryaToD|6",
+				"Monstrous Chimera Form|Druid||Chimera|DaryaToD|10"
+			]
+		},
+		{
+			"name": "Circle of the Spiritkeeper",
+			"source": "DaryaToD",
+			"className": "Druid",
+			"shortName": "Spiritkeeper",
+			"subclassFeatures":[
+				"Circle Spells|Druid||Spiritkeeper|DaryaToD|1",
+				"Soul Trap|Druid||Spiritkeeper|DaryaToD|2",
+				"Soul Whisperer|Druid||Spiritkeeper|DaryaToD|6",
+				"Reshape Soul|Druid||Spiritkeeper|DaryaToD|10",
+				"Soul Master|Druid||Spiritkeeper|DaryaToD|14"
+			]
+		},
+		{
+			"name": "Gastro Warrior",
+			"source": "DaryaToD",
+			"className": "Fighter",
+			"shortName": "Gastro",
+			"subclassFeatures":[
+				"Student of Gastronomy|Fighter||Gastro|DaryaToD|3",
+				"Combat Gastronomy|Fighter||Gastro|DaryaToD|3",
+				"Gusto|Fighter||Gastro|DaryaToD|7",
+				"Additional Techniques|Fighter||Gastro|DaryaToD|10",
+				"Stomach Shield|Fighter||Gastro|DaryaToD|15",
+				"Relishing The Fight|Fighter||Gastro|DaryaToD|18"
+			]
+		},
+		{
+			"name": "Way of the Bellydancer",
+			"source": "DaryaToD",
+			"className": "Monk",
+			"shortName": "Bellydancer",
+			"subclassFeatures":[
+				"Bellydancing|Monk||Bellydancer|DaryaToD|3",
+				"Elegance|Monk||Bellydancer|DaryaToD|3",
+				"Belly Bump|Monk||Bellydancer|DaryaToD|6",
+				"Enthralling Performance|Monk||Bellydancer|DaryaToD|6",
+				"Belly Block|Monk||Bellydancer|DaryaToD|11",
+				"Distracting Dance|Monk||Bellydancer|DaryaToD|17"
+			]
+		},
+		{
+			"name": "Way of Gastropuncture",
+			"source": "DaryaToD",
+			"className": "Monk",
+			"shortName": "Gastropuncture",
+			"subclassFeatures":[
+				"Punch Through the Gut|Monk||Gastropuncture|DaryaToD|3",
+				"Pressure Point Control|Monk||Gastropuncture|DaryaToD|3",
+				"Advanced Pressure Point Control|Monk||Gastropuncture|DaryaToD|6",
+				"Accupressure Therapy|Monk||Gastropuncture|DaryaToD|11",
+				"Pressure Point - Energy Manipulation|Monk||Gastropuncture|DaryaToD|17"
+			]
+		},
+		{
+			"name": "Oath of Indulgence",
+			"source": "DaryaToD",
+			"className": "Paladin",
+			"shortName": "Indulgence",
+			"subclassFeatures":[
+				"Channel Divinity|Paladin||Indulgence|DaryaToD|3",
+				"Aura of Digestion|Paladin||Indulgence|DaryaToD|7",
+				"Voracious Vigilance|Paladin||Indulgence|DaryaToD|15",
+				"Avatar of Decadence|Paladin||Indulgence|DaryaToD|20"
+			]
+		},
+		{
+			"name": "Oath of Fortress",
+			"source": "DaryaToD",
+			"className": "Paladin",
+			"shortName": "Fortress",
+			"subclassFeatures":[
+				"Internal Fortress|Paladin||Fortress|DaryaToD|3",
+				"Channel Divinity|Paladin||Fortress|DaryaToD|3",
+				"Wide Stance|Paladin||Fortress|DaryaToD|7",
+				"Reconstruction|Paladin||Fortress|DaryaToD|15",
+				"Saving Stomach|Paladin||Fortress|DaryaToD|20"
+			]
+		},
+		{
+			"name": "Natural Cycle Conclave",
+			"source": "DaryaToD",
+			"className": "Ranger",
+			"shortName": "Natural Cycle",
+			"subclassFeatures":[
+				"Natural Cycle Conclave Magic|Ranger||Natural Cycle|DaryaToD|3",
+				"Acquired Taste|Ranger||Natural Cycle|DaryaToD|3",
+				"Uncanny Tracker|Ranger||Natural Cycle|DaryaToD|3",
+				"Counter-Consume|Ranger||Natural Cycle|DaryaToD|7",
+				"Instinct of Predator and Prey|Ranger||Natural Cycle|DaryaToD|11",
+				"Master of the Food Chain|Ranger||Natural Cycle|DaryaToD|15"
+			]
+		},
+		{
+			"name": "Parasite",
+			"source": "DaryaToD",
+			"className": "Rogue",
+			"shortName": "Parasite",
+			"subclassFeatures":[
+				"Stomach Parasite|Rogue||Parasite|DaryaToD|3",
+				"Hidden Form|Rogue||Parasite|DaryaToD|3",
+				"Stealth Entry|Rogue||Parasite|DaryaToD|3",
+				"Invasion|Rogue||Parasite|DaryaToD|9",
+				"Greater Parasite|Rogue||Parasite|DaryaToD|13",
+				"Master Paracite|Rogue||Parasite|DaryaToD|17"
+			]
+		},
+		{
+			"name": "Silent Python",
+			"source": "DaryaToD",
+			"className": "Rogue",
+			"shortName": "Python",
+			"subclassFeatures":[
+				"Ambusher|Rogue||Python|DaryaToD|3",
+				"Focused Acids|Rogue||Python|DaryaToD|3",
+				"Identity Theft|Rogue||Python|DaryaToD|8",
+				"Uncanny Gut|Rogue||Python|DaryaToD|13",
+				"Acid Blast|Rogue||Python|DaryaToD|17"
+			]
+		},
+		{
+			"name": "Essence Thief",
+			"source": "DaryaToD",
+			"className": "Rogue",
+			"shortName": "Essence",
+			"subclassFeatures":[
+				"Essence Theft|Rogue||Essence|DaryaToD|3",
+				"Essence Devour|Rogue||Essence|DaryaToD|3",
+				"Improved Devour|Rogue||Essence|DaryaToD|9",
+				"Thief of Faces|Rogue||Essence|DaryaToD|13",
+				"Essence Assassin|Rogue||Essence|DaryaToD|17"
+			]
+		},
+		{
+			"name": "Gaseous Power",
+			"source": "DaryaToD",
+			"className": "Sorcerer",
+			"shortName": "Gaseous",
+			"subclassFeatures":[
+				"Noxious Power|Sorcerer||Gaseous|DaryaToD|1",
+				"Gaseous Release|Sorcerer||Gaseous|DaryaToD|1",
+				"Noxious Spell|Sorcerer||Gaseous|DaryaToD|6",
+				"Gaseous Flight|Sorcerer||Gaseous|DaryaToD|14",
+				"Stinking Aura|Sorcerer||Gaseous|DaryaToD|18"
+			]
+		},
+		{
+			"name": "Tarrasque Bloodline",
+			"source": "DaryaToD",
+			"className": "Sorcerer",
+			"shortName": "Tarrasque",
+			"subclassFeatures":[
+				"Everliving Blood|Sorcerer||Tarrasque|DaryaToD|1",
+				"Power Siphon|Sorcerer||Tarrasque|DaryaToD|1",
+				"Arcane Absorption|Sorcerer||Tarrasque|DaryaToD|6",
+				"Monstrous Form|Sorcerer||Tarrasque|DaryaToD|14",
+				"Titan's Grasp|Sorcerer||Tarrasque|DaryaToD|18"
+			]
+		}
+	],
+	"subclassFeature": []
+
+}
